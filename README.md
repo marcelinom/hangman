@@ -1,6 +1,6 @@
 # README #
 
-Instruções para rodar a aplicação Hangman, desenvolvida por Marcelino Magalhães de Oliveira para o desafio Dell/Meta, em 7/jun/2021
+Instruções para rodar a aplicação Hangman, desenvolvida por Marcelino Magalhães de Oliveira, em 7/jun/2021
 
 ### Implementação ###
 
